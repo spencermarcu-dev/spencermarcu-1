@@ -11,7 +11,7 @@ After you've installed and activated the plugin:
 3. Click the "PDF" icon in the left sidebar
 
 ### Demo with default settings
-![Simple](https://github.com/akaalias/obsidian-extract-pdf-highlights/blob/main/simple.gif?raw=true)
+![Simple](https://github.com/spencermarcu/tree/master)=true)
 
 ### Demo with all optional settings turned on
 ![Settings](https://github.com/akaalias/obsidian-extract-pdf-highlights/blob/main/settings.gif?raw=true)
